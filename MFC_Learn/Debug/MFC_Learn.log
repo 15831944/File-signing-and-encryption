@@ -1,0 +1,40 @@
+﻿生成启动时间为 2020/5/4 19:20:15。
+     1>项目“G:\mimaxue\MFC_Learn\MFC_Learn\MFC_Learn.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFC_Learn.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Dialog2.cpp
+         Dialog2.cpp
+     1>g:\mimaxue\mfc_learn\mfc_learn\md5.h(127): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(58): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(63): warning C4244: “初始化”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(92): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(97): warning C4244: “初始化”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(127): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(132): warning C4244: “初始化”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(162): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\mimaxue\mfc_learn\mfc_learn\dialog2.cpp(237): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\mimaxue\MFC_Learn\Debug\MFC_Learn.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\mimaxue\MFC_Learn\Debug\MFC_Learn.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\mimaxue\MFC_Learn\Debug\MFC_Learn.lib" /MACHINE:X86 Debug\MFC_Learn.res
+         Debug\big.obj
+         Debug\des.obj
+         Debug\Dialog1.obj
+         Debug\Dialog2.obj
+         Debug\Dialog3.obj
+         Debug\Dialog4.obj
+         Debug\Dialog5.obj
+         Debug\Dialog6.obj
+         Debug\Dialog7.obj
+         Debug\MFC_Learn.obj
+         Debug\MFC_LearnDlg.obj
+         Debug\rsa.obj
+         Debug\stdafx.obj
+         Debug\zzn.obj
+         miracl.lib
+         MFC_Learn.vcxproj -> G:\mimaxue\MFC_Learn\Debug\MFC_Learn.exe
+     1>已完成生成项目“G:\mimaxue\MFC_Learn\MFC_Learn\MFC_Learn.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.59
